@@ -29,6 +29,7 @@ Author: Emile Zola
 Release Date: September, 2004  [EBook #6497]
 [Yes, we are more than one year ahead of schedule]
 [This file was first posted on December 22, 2002]
+Last Updated: September 2, 2016
 
 Edition: 10
 
@@ -4447,7 +4448,7 @@ un coin de la maçonnerie, à cause du trottoir, là-bas, sous lui.
 l'air, bougre d'efflanqué! les alouettes ne te tomberont pas toutes
 rôties!
 
-Mais Zidore ne se pressait pas. 11 s'intéressait aux toits voisins, à
+Mais Zidore ne se pressait pas. Il s'intéressait aux toits voisins, à
 une grosse fumée qui montait au fond de Paris, du côté de Grenelle; ça
 pouvait bien être un incendie. Pourtant, il vint se mettre à plat
 ventre, la tête au-dessus du trou; et il passa les fers à Coupeau.
@@ -7423,7 +7424,7 @@ Lantier lui causait toujours une brûlure au creux de l'estomac, comme
 si cet homme eût laissé là, sous la peau, quelque chose de lui.
 Certes, elle se croyait bien solide, elle voulait vivre en honnête
 femme, parce que l'honnêteté est la moitié du bonheur. Aussi ne
-songeaitelle pas à Coupeau, dans cette affaire, n'ayant rien à se
+songeait-elle pas à Coupeau, dans cette affaire, n'ayant rien à se
 reprocher contre son mari, pas même en pensée. Elle songeait au
 forgeron, le coeur tout hésitant et malade. Il lui semblait que le
 retour du souvenir de Lantier en elle, cette lente possession dont
@@ -7567,7 +7568,7 @@ frappant plus fort à mesure qu'il s'étranglait davantage.
 Puis, la voix lui manqua, il continua de taper sourdement, follement,
 raidi dans sa cotte et son bourgeron déguenillés, la face bleuie sous
 sa barbe sale, avec son front chauve taché de grandes plaques rouges.
-Sur le carré, les voisins disaient qu'il la battait parée qu'elle lui
+Sur le carré, les voisins disaient qu'il la battait parce qu'elle lui
 avait refusé vingt sous, le matin. On entendit la voix de Boche, au
 bas de l'escalier. Il appelait madame Boche, il lui criait:
 
@@ -7751,7 +7752,7 @@ que les voisines descendirent les unes après les autres, entrèrent
 sous des prétextes, uniquement pour savoir ce qui cuisait; et elles se
 plantaient là, en attendant que la blanchisseuse fût forcée de lever
 les couvercles. Puis, vers cinq heures, Virginie parut; elle avait
-encore vu Lantier; décidément, ou ne mettait plus les pieds dans la
+encore vu Lantier; décidément, on ne mettait plus les pieds dans la
 rue sans le rencontrer. Madame Boche, elle aussi, venait de
 l'apercevoir au coin du trottoir, avançant la tête d'un air sournois.
 Alors, Gervaise, qui justement allait acheter un sou d'ognons brûlés
@@ -8459,7 +8460,7 @@ pour trois jours, ils auraient englouti le plat, la table et la
 boutique, afin de ruiner la Banban du coup. Toutes les dames avaient
 voulu de la carcasse; la carcasse, c'est le morceau des dames. Madame
 Lerat, madame Boche, madame Putois grattaient des os, tandis que maman
-Coupeau, qui adorait le cou, eu arrachait la viande avec ses deux
+Coupeau, qui adorait le cou, en arrachait la viande avec ses deux
 dernières dents. Virginie, elle, aimait la peau, quand elle était
 rissolée, et chaque convive lui passait sa peau, par galanterie; si
 bien que Poisson jetait à sa femme des regards sévères, en lui
@@ -8541,7 +8542,7 @@ vieille. Allez, il vient un jour où l'on est content de partir.
 
 Cependant, par la porte grande ouverte, le quartier regardait et était
 de la noce. Des passants s'arrêtaient dans le coup de lumière élargi
-sur les pavés, et riaient d'aise, avoir ces gens avaler de si bon
+sur les pavés, et riaient d'aise, à voir ces gens avaler de si bon
 coeur. Les cochers, penchés sur leurs sièges, fouettant leurs rosses,
 jetaient un regard, lâchaient une rigolade: « Dis donc, tu ne paies
 rien?... Ohé! la grosse mère, je vas chercher l'accoucheuse!... » Et
@@ -8806,7 +8807,7 @@ de la table grasse, dans l'air épaissi d'un souffle d'indigestion,
 s'ouvraient des horizons d'or, passaient des cous d'ivoire, des
 chevelures d'ébène, des baisers sous la lune aux sons des guitares,
 des bayadères semant sous leurs pas une pluie de perles et de
-pierreries; elles hommes fumaient béatement leurs pipes, les dames
+pierreries; et les hommes fumaient béatement leurs pipes, les dames
 gardaient un sourire inconscient de jouissance, tous croyaient être
 là-bas, en train de respirer de bonnes odeurs. Lorsque Clémence se mit
 à roucouler: _Faites un nid_, avec un tremblement de la gorge, ça
@@ -9298,7 +9299,7 @@ Les jours où il se plaignait, si l'on se risquait à lui indiquer une
 manufacture demandant des ouvriers, il semblait pris d'une pitié
 souriante, il n'avait pas envie de crever la faim, en s'échinant pour
 les autres. Ce gaillard-là, toutefois, comme disait Coupeau, ne vivait
-pas de l'air du temps. On! c'était un malin, il savait s'arranger, il
+pas de l'air du temps. Oh! c'était un malin, il savait s'arranger, il
 bibelotait quelque commerce, car enfin il montrait une figure de
 prospérité, il lui fallait bien de l'argent pour se payer du linge
 blanc et des cravates de fils de famille. Un matin, le zingueur
@@ -9447,7 +9448,7 @@ Il évitait de regarder Gervaise. Mais il attendait évidemment un mot
 de sa part pour accepter. Celle-ci était très contrariée de l'idée de
 son mari; non pas que la pensée de voir Lantier demeurer chez eux la
 blessât ni l'inquiétât beaucoup; mais elle se demandait où elle
-mettrait son linge sale. Cependant, la zingueur faisait valoir les
+mettrait son linge sale. Cependant, le zingueur faisait valoir les
 avantages de l'arrangement. Le loyer de cinq cents francs avait
 toujours été un peu fort. Eh bien! le camarade leur paierait la
 chambre toute meublée vingt francs par mois; ce ne serait pas cher
@@ -9996,7 +9997,7 @@ lenteur de cygne. Dans le coin du champ, la chèvre, tournée vers eux,
 les regardait en poussant à de longs intervalles réguliers un bêlement
 très doux. Et, sans se lâcher les doigts, les yeux noyés
 d'attendrissement, ils se perdaient au loin, sur la pente de
-Montmartre blafard, au milieu delà haute futaie des cheminées d'usines
+Montmartre blafard, au milieu de la haute futaie des cheminées d'usines
 rayant l'horizon, dans cette banlieue plâtreuse et désolée, où les
 bosquets verts des cabarets borgnes les touchaient jusqu'aux larmes.
 
@@ -10087,7 +10088,7 @@ tentative. Il se trouva plusieurs fois seul avec elle et se tint
 tranquille. Il semblait maintenant occupé de la tripière, une femme de
 quarante-cinq ans, très bien conservée. Gervaise, devant Goujet,
 parlait de la tripière, afin de le rassurer. Elle répondait à Virginie
-et à madame Lerat, quand cellesci faisaient l'éloge du chapelier,
+et à madame Lerat, quand celles-ci faisaient l'éloge du chapelier,
 qu'il pouvait bien se passer de son admiration, puisque toutes les
 voisines avaient des béguins pour lui.
 
@@ -10142,7 +10143,7 @@ matin à mots couverts, en chipotant les pommes de terre de Gervaise.
 Même un jour, dans un bosquet du _Moulin de la Galette_, Lantier amena
 une femme, avec laquelle Coupeau le laissa au dessert.
 
-Naturellement, oh ne peut pas nocer et travailler. Aussi, depuis
+Naturellement, on ne peut pas nocer et travailler. Aussi, depuis
 l'entrée du chapelier dans le ménage, le zingueur, qui fainéantait
 déjà pas mal, en était arrivé à ne plus toucher un outil. Quand il se
 laissait encore embaucher, las de traîner ses savates, le camarade le
@@ -10297,7 +10298,7 @@ faire un crime. Il approuvait même Goujet, attendu que c'était un
 bonheur de ne jamais avoir soif. Et il parlait d'aller travailler,
 lorsque Lantier, avec son grand air d'homme comme il faut, lui
 infligea une leçon: on payait sa tournée, au moins, avant de se
-cavaler; on ne lâchait pas dos amis comme un pleutre, même pour se
+cavaler; on ne lâchait pas des amis comme un pleutre, même pour se
 rendre à son devoir.
 
 -- Est-ce qu'il va nous bassiner longtemps avec son travail! cria
@@ -12722,7 +12723,7 @@ trouvait même la boutique proprement arrangée. Elle s'attendait à
 souffrir, en passant ainsi la soirée dans son ancien logement, où
 d'autres se carraient à cette heure; et elle restait surprise de
 n'avoir pas ragé une seconde. Nana, qui se déshabillait, demanda à sa
-mère si la robe de la demoiselle du second, qu'on avait mariée lé mois
+mère si la robe de la demoiselle du second, qu'on avait mariée le mois
 dernier, était en mousseline comme la sienne.
 
 Mais ce fut là le dernier beau jour du ménage. Deux années
@@ -12757,7 +12758,7 @@ maçon du cinquième, avait volé chez son patron.
 
 Sans doute, les Coupeau devaient s'en prendre à eux seuls. L'existence
 a beau être dure, on s'en tire toujours, lorsqu'on a de l'ordre et de
-l'économie, témoin les Lorilleux qui allongeaient leurs termes
+l'économie, témoins les Lorilleux qui allongeaient leurs termes
 régulièrement, pliés dans des morceaux de papier sales; mais, ceux-là,
 vraiment, menaient une vie d'araignées maigres, à dégoûter du travail.
 Nana ne gagnait encore rien, dans les fleurs; elle dépensait même pas
@@ -13834,7 +13835,7 @@ Puis, aussitôt après le déjeuner, elle filait, elle descendait dans la
 cour. La paix chaude du dimanche endormait la maison; en bas, les
 ateliers étaient fermés; les logements bâillaient par leurs croisées
 ouvertes, montraient des tables déjà mises pour le soir, qui
-attendaient les ménages, entrain de gagner de l'appétit sur les
+attendaient les ménages, en train de gagner de l'appétit sur les
 fortifications; une femme, au troisième, employait la journée à laver
 sa chambre, roulant son lit, bousculant ses meubles, chantant pendant
 des heures la même chanson, sur un ton doux et pleurard. Et, dans le
@@ -14486,7 +14487,7 @@ l'Assommoir, apercevait sa mère au fond, le nez dans la goutte,
 avachie au milieu des engueulades des hommes, elle était prise d'une
 colère bleue, parce que la jeunesse, qui a le bec tourné à une autre
 friandise, ne comprend pas la boisson. Ces soirs-là, elle avait un
-beau tableau, le papa pochard, la maman pocharde, an tonnerre de Dieu
+beau tableau, le papa pochard, la maman pocharde, un tonnerre de Dieu
 de cambuse où il n'y avait pas de pain et qui empoisonnait la liqueur.
 Enfin, une sainte ne serait pas restée là dedans. Tant pis! si elle
 prenait de la poudre d'escampette un de ces jours, ses parents
@@ -15321,7 +15322,7 @@ coup:
 
 Virginie, assise au comptoir, l'air soucieux en face des bocaux et des
 tiroirs qui se vidaient, hocha furieusement la tête. Elle se retenait,
-pour ne pas, en lâcher trop long; car ça finissait par sentir mauvais.
+pour ne pas en lâcher trop long; car ça finissait par sentir mauvais.
 Lantier voyait Nana bien souvent. Oh! elle n'en aurait pas mis la main
 au feu, il était homme à faire pire, quand une jupe lui trottait dans
 la tête. Madame Lerat, qui venait d'entrer, très liée en ce moment
@@ -15616,7 +15617,7 @@ Le silence continua.
 rendrais ce soir!
 
 Madame Lorilleux se tourna et la regarda fixement. En voilà une
-peloteuse qui venait les empaument Aujourd'hui, elle les tapait de dix
+peloteuse qui venait les empaumer Aujourd'hui, elle les tapait de dix
 sous, demain ce serait de vingt, et il n'y avait plus de raison pour
 s'arrêter. Non, non, pas de ça. Mardi, s'il fait chaud!
 
@@ -16286,7 +16287,7 @@ Clignancourt à la grande rue de la Chapelle.
 Mais les hommes passaient. Elle partait des abattoirs, dont les
 décombres puaient le sang. Elle donnait un regard à l'ancien hôtel
 Boncoeur, fermé et louche. Elle passait devant l'hôpital de
-Lariboisière comptait machinalement le long des façades les fenêtres
+Lariboisière, comptait machinalement le long des façades les fenêtres
 éclairées, brûlant comme des veilleuses d'agonisant, avec des lueurs
 pâles et tranquilles. Elle traversait le pont du chemin de fer, dans
 le branle des trains, grondant et déchirant l'air du cri désespéré de
@@ -17115,7 +17116,7 @@ mécanisait. Avec ça, ces blagueurs lui lâchaient des bandes de rats
 dans les jambes. Ah! les sales bêtes, il les voyait toujours! Il avait
 beau les écraser, en frottant son pied sur le sol de toutes ses
 forces, il en passait de nouvelles ribambelles, le toit en était noir.
-Est-ce qu'il n'y avait pas dés araignées aussi! Il serrait rudement
+Est-ce qu'il n'y avait pas des araignées aussi! Il serrait rudement
 son pantalon pour tuer contre sa cuisse de grosses araignées, qui
 s'étaient fourrées là. Sacré tonnerre! il ne finirait jamais sa
 journée, on voulait le perdre, son patron allait l'envoyer à Mazas.
